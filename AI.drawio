@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="3707" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2609" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaE2wM7HkO5J1RQpRfGv-161" value="Cloud model" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="jaE2wM7HkO5J1RQpRfGv-76">
-          <mxGeometry x="1160" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="1170" y="152.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jaE2wM7HkO5J1RQpRfGv-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jaE2wM7HkO5J1RQpRfGv-76" source="jaE2wM7HkO5J1RQpRfGv-190" target="jaE2wM7HkO5J1RQpRfGv-206">
           <mxGeometry relative="1" as="geometry" />
