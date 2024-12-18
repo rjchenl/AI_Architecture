@@ -106,14 +106,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-96" value="輸入API" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-98" value="輸出API" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kDu043KuIS-j0e6a9p6U-115" target="kDu043KuIS-j0e6a9p6U-96" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="470" as="targetPoint" />
+            <mxPoint x="1190" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-30" value="work flow dify" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -176,7 +176,7 @@
           <mxGeometry x="254" y="25" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-115" value="Fubon KM" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kDu043KuIS-j0e6a9p6U-12" target="kDu043KuIS-j0e6a9p6U-101" edge="1">
           <mxGeometry relative="1" as="geometry">
