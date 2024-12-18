@@ -120,10 +120,10 @@
           <mxGeometry x="160" y="360" width="720" height="600" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-55" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" parent="kDu043KuIS-j0e6a9p6U-30" vertex="1">
-          <mxGeometry x="140" y="140" width="46" height="55" as="geometry" />
+          <mxGeometry x="60" y="430" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-9" value="agent management" style="swimlane;whiteSpace=wrap;html=1;" parent="kDu043KuIS-j0e6a9p6U-30" vertex="1">
-          <mxGeometry x="240" y="60" width="436" height="495" as="geometry">
+          <mxGeometry x="250" y="80" width="436" height="495" as="geometry">
             <mxRectangle x="135" y="165" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-51" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" parent="kDu043KuIS-j0e6a9p6U-30" vertex="1">
-          <mxGeometry x="28" y="140" width="46" height="55" as="geometry" />
+          <mxGeometry x="74" y="150" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-103" value="workflow管理" style="whiteSpace=wrap;html=1;" parent="kDu043KuIS-j0e6a9p6U-30" vertex="1">
           <mxGeometry x="74" y="50" width="120" height="60" as="geometry" />
@@ -170,7 +170,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-105" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" parent="kDu043KuIS-j0e6a9p6U-30" vertex="1">
-          <mxGeometry x="60" y="230" width="46" height="55" as="geometry" />
+          <mxGeometry x="100" y="272.5" width="46" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l8onL6K01JRs-kmVotD8-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="kDu043KuIS-j0e6a9p6U-30">
+          <mxGeometry x="254" y="25" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kDu043KuIS-j0e6a9p6U-115" value="Fubon KM" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="420" width="120" height="60" as="geometry" />
@@ -178,8 +181,9 @@
         <mxCell id="kDu043KuIS-j0e6a9p6U-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kDu043KuIS-j0e6a9p6U-12" target="kDu043KuIS-j0e6a9p6U-101" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="495" />
+              <mxPoint x="900" y="515" />
               <mxPoint x="900" y="635" />
+              <mxPoint x="1013" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
